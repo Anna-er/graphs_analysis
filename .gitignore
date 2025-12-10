@@ -1,6 +1,5 @@
 *.gr
 *.Identifier
-*.txt
 dataset
 .venv
 .vscode
