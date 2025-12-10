@@ -1,0 +1,3 @@
+[submodule "boruvka/shmakov/Gunrock/gunrock"]
+	path = boruvka/shmakov/Gunrock/gunrock
+	url = https://github.com/gunrock/gunrock
