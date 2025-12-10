@@ -6,3 +6,5 @@ dataset
 .vscode
 *.out
 cache
+graphs_raw
+target
